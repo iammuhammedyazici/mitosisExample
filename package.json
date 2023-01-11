@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@builder.io/mitosis": "^0.0.83",
+    "@builder.io/mitosis-cli": "^0.0.41"
+  },
+  "devDependencies": {
+    "@builder.io/eslint-plugin-mitosis": "^0.0.12"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "mitosis.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
